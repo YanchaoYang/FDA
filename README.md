@@ -82,4 +82,4 @@ Step 3: Apply inverse FFT to the modified source spectrum.
    
 **Acknowledgment**
 
-Code adapted from [BDL](https://github.com/liyunsheng13/BDL)
+Code adapted from [BDL.](https://github.com/liyunsheng13/BDL)
