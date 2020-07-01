@@ -23,7 +23,7 @@ Step 3: Apply inverse FFT to the modified source spectrum.
    ![Image of Source](https://github.com/YanchaoYang/FDA/blob/master/demo_images/example.png)
 
 
-2. Syn2Real Adaptation Using FDA (single beta)
+2. Sim2Real Adaptation Using FDA (single beta)
 
    > python3 train.py --snapshot-dir='../checkpoints/FDA' --init-weights='../checkpoints/FDA/init_weight/DeepLab_init.pth' 
                       --LB=0.01 --entW=0.005 --ita=2.0 --switch2entropy=0
