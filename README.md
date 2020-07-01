@@ -2,7 +2,7 @@
 
 This is the Pytorch implementation of our [FDA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) paper published in CVPR 2020.
 
-Domain adaptation via style transfer made easy using Fourier Transform. FDA needs no deep networks for style transfer, and involves no adversarial training. Below is the diagram of the proposed Fourier Domain Adaptation method:
+Domain adaptation via *style transfer* made easy using Fourier Transform. FDA needs **no deep networks** for style transfer, and involves **no adversarial training**. Below is the diagram of the proposed Fourier Domain Adaptation method:
 
 Step 1: Apply FFT to source and target images.
 
